@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
 언어 및 도구
-![javascript](https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png)
+<img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="100" height="100"/>
