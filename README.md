@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 언어 및 도구
+ㅇ
