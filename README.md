@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 반갑습니다!
 
 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
+
 언어 및 도구
-ㅇ
+![javascript](https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png)
