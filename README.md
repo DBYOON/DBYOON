@@ -1,4 +1,4 @@
-### 반갑습니다! 👋
+### 올리브, 오렌지, 네이비 👋
 
 <!--
 **DBYOON/DBYOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
