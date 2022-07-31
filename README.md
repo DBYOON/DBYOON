@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💻 UI개발자(웹퍼블리셔)
 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
 언어 및 도구
 
-<img src="https://user-images.githubusercontent.com/19281688/182010354-057debb2-775b-403c-b1e9-a9e7d88a9b83.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010311-c8fd9aa7-7bf3-4499-8c0e-6de4879266fb.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010312-41e9dd78-9d5c-4bb4-9bce-4f33f6279555.png" width="20" height="20"/>
+<img src="https://user-images.githubusercontent.com/19281688/182010354-057debb2-775b-403c-b1e9-a9e7d88a9b83.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010311-c8fd9aa7-7bf3-4499-8c0e-6de4879266fb.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010312-41e9dd78-9d5c-4bb4-9bce-4f33f6279555.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182011012-b2826075-ca34-43b5-af0d-cf24320e2320.png" width="20" height="20"/>
