@@ -1,4 +1,4 @@
-### 올리브, 오렌지, 네이비 👋
+### 쿨라임피지오, 커피, 올리브, 오렌지, 네이비 👋
 
 <!--
 **DBYOON/DBYOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 UI개발자(웹퍼블리셔)
-💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
+💻 UI개발자(웹퍼블리셔) 시니어에서 프론트엔드 포지션으로 확장 중인 
+🌱 열심히 배우고 있는 주니어 프론트엔드 개발자입니다.
 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
 언어 및 도구
