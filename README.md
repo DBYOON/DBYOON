@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 언어 및 도구
 
-<img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010311-c8fd9aa7-7bf3-4499-8c0e-6de4879266fb.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010312-41e9dd78-9d5c-4bb4-9bce-4f33f6279555.png" width="20" height="20"/>
+<img src="https://user-images.githubusercontent.com/19281688/182010354-057debb2-775b-403c-b1e9-a9e7d88a9b83.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010311-c8fd9aa7-7bf3-4499-8c0e-6de4879266fb.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/19281688/182010312-41e9dd78-9d5c-4bb4-9bce-4f33f6279555.png" width="20" height="20"/>
