@@ -1,4 +1,4 @@
-### 쿨라임피지오, 커피, 올리브, 오렌지, 네이비 👋
+### 쿨라임피지오, 커피, 스케이트보드, 올리브, 오렌지, 네이비 👋
 
 <!--
 **DBYOON/DBYOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
