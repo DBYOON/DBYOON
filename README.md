@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 언어 및 도구
 
 <img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="20" height="20"/>
+<img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="20" height="20"/>
+<img src="https://user-images.githubusercontent.com/19281688/181920405-148be0e1-046b-4f7a-807e-0f01048a76b6.png" width="20" height="20"/>
